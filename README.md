@@ -10,7 +10,7 @@ You're welcome to use this for your own projects. Please limit issues to actual 
 
 Code is often shared. Whether in a blog post, on a Slack or Discord channel, on social media, or in a printed book, excessive indentation makes it hard to share code. I hate horizontal scrolling, so I prefer smaller indentation defaults and (when things get long) breaking longer lines so they remain visible without scrolling.
 
-## Changes to original
+## Changes To The Original
 - Indent size is 4
 - Tab size is 4
 - Add configuration for Editor Guidelines Extension
